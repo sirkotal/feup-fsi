@@ -1,8 +1,7 @@
-Breve descrição do grupo
+Project made by:
 
-* Turno: [L]04
-* Grupo: 05
-* Alunos:
-    - Joana Rita Batista Marques up202103346
-    - João Pedro Rodrigues Coutinho up202108787
-    - Miguel Jorge Medeiros Garrido up202108889
+- Joana Rita Batista Marques (up202103346)
+- João Pedro Rodrigues Coutinho (up202108787)
+- Miguel Jorge Medeiros Garrido (up202108889)
+
+Original repo at: https://git.fe.up.pt/fsi/fsi2324/logs/l04g05
