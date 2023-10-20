@@ -1,6 +1,0 @@
-Labsetup/**/badfile
-Labsetup/**/*.out
-Labsetup/**/*.o
-Labsetup/**/stack-L*
-Labsetup/**/peda-session*
-.gdb_history
