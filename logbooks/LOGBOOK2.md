@@ -2,11 +2,13 @@
 
 ## Identification
 
-- CVE-2022-30190
+- CVE-2022-30190 - Follina
 - [Remote Code Execution](https://encyclopedia.kaspersky.com/glossary/remote-code-execution-rce/): Gives attackers the ability to execute malicious code/malware and take over an affected system.
 - It can be exploited when the Microsoft Windows Support Diagnostic Tool (MSDT) is called using the URL protocol from an application (Microsoft Word, for instance).
 - Affected Systems:
-    - All operating systems of the Windows family, both desktop and server.
+    - Office Pro Plus, 2013, 2016, 2019 and 2021.
+    - Windows 7, 8.1, 10, 11
+    - Windows Server 2008, 2012, 2016, 2019 and 2022.
 
 ## Cataloguing
 

@@ -2,7 +2,7 @@
 
 ## 1. Reconnaissance
 
-We were told that at http://ctf-fsi.fe.up.pt:5001 was a Wordpress server. We started by collecting every single bit of information we could about the web application; by taking a closer look at the website's pages, we were able to find the Wordpress and plugins versions.
+We were told that there was a Wordpress server at http://ctf-fsi.fe.up.pt:5001. We started by collecting every single bit of information we could about the web application; by taking a closer look at the website's pages, we were able to find the Wordpress and plugins versions.
 
 |![additional-information](images/wordpress-ctf/version_info.png)|
 |:--:| 
